@@ -1,4 +1,3 @@
-# Hi 👋, I'm Eray Yalman
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ErayYalman&label=Profile views&color=0e75b6&style=flat" alt="ErayYalman" /> </p>
 
