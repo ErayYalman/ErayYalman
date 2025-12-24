@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Bir+Yazılımcıyım;PHP+ve+C%23+Geliştiricisiyim;Projelerime+Göz+Atın!" alt="Typing SVG" />
-</h1>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErayYalman&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
