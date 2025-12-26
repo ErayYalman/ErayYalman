@@ -37,6 +37,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErayYalman&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 <div align="center">
   <img src="https://github.com/ErayYalman/ErayYalman/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
