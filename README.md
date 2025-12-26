@@ -37,10 +37,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://metrics.lecoq.io/ErayYalman?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&languages=1" alt="ErayYalman Metrics" />
-</div>
-<br>
 
 
 <div align="center">
