@@ -19,8 +19,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErayYalman&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ErayYalman&theme=radical" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErayYalman&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
