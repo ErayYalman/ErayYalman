@@ -1,7 +1,11 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ErayYalman&label=Profile views&color=0e75b6&style=flat" alt="ErayYalman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErayYalman" alt="ErayYalman" /></a> </p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ErayYalman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ErayYalman" alt="Trophies" />
+  </a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
