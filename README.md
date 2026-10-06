@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16181d,50:23283a,100:39466d&height=220&section=header&text=Eray%20Yalman&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Java%20%7C%20Distributed%20Systems&descAlignY=62&descSize=20&descColor=9aa4c7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16181d,50:23283a,100:39466d&height=220&section=header&text=Eray%20Yalman&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=62&descSize=20&descColor=9aa4c7"/>
 
 </div>
 
